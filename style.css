@@ -1,4 +1,24 @@
 body{
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    color:rgb(213, 96, 96)
+    background-color: orange;
+    
+}
+.head{
+    /*background-color: #333333;*/
+    color: rgb(9, 9, 172);
+    padding: 20px;
+}
+
+#bglime{
+    background-color: lime;
+    padding: 10px;
+    margin: 10px;
+    font-size: 40px;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+
 }
