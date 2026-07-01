@@ -8,6 +8,9 @@ body{
     color: rgb(9, 9, 172);
     padding: 20px;
 }
+.headtx{
+    color: red;
+}   
 
 #bglime{
     background-color: lime;
@@ -21,4 +24,21 @@ p{
 #para{
     color: green;
 
+}
+.pg{
+    color: black;
+    font-size: 20px;
+}
+.ul1{
+    background-color: yellow;
+}
+.ul2{
+    background-color: blue;
+}
+#oli2{
+    color: red;
+}   
+
+#oli3{
+    color: green;
 }
